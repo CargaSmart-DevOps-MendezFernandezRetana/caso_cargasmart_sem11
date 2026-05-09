@@ -1,4 +1,5 @@
-function sumarRuta(a, b) {
-    return a + b;
-}
-module.exports = sumarRuta;
+javascript// Cambia esto:
+return a + b;
+
+// Por esto:
+return a - b;
